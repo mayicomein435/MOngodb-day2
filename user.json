@@ -1,0 +1,62 @@
+[
+    {
+        "user_id": 1,
+        "name": "Alice Johnson",
+        "email": "alice.johnson@example.com",
+        "course": "Data Science"
+    },
+    {
+        "user_id": 2,
+        "name": "Bob Smith",
+        "email": "bob.smith@example.com",
+        "course": "Machine Learning"
+    },
+    {
+        "user_id": 3,
+        "name": "Carol White",
+        "email": "carol.white@example.com",
+        "course": "Web Development"
+    },
+    {
+        "user_id": 4,
+        "name": "David Brown",
+        "email": "david.brown@example.com",
+        "course": "Cyber Security"
+    },
+    {
+        "user_id": 5,
+        "name": "Eva Green",
+        "email": "eva.green@example.com",
+        "course": "Digital Marketing"
+    },
+    {
+        "user_id": 6,
+        "name": "Frank Black",
+        "email": "frank.black@example.com",
+        "course": "Cloud Computing"
+    },
+    {
+        "user_id": 7,
+        "name": "Grace Clark",
+        "email": "grace.clark@example.com",
+        "course": "Artificial Intelligence"
+    },
+    {
+        "user_id": 8,
+        "name": "Harry Lewis",
+        "email": "harry.lewis@example.com",
+        "course": "Software Engineering"
+    },
+    {
+        "user_id": 9,
+        "name": "Isla Martin",
+        "email": "isla.martin@example.com",
+        "course": "Blockchain"
+    },
+    {
+        "user_id": 10,
+        "name": "Jack Turner",
+        "email": "jack.turner@example.com",
+        "course": "Internet of Things"
+    }
+]
